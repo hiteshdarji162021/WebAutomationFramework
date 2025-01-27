@@ -54,10 +54,9 @@ mvn test
 After execution, detailed reports are available in the test-output folder.
 
 ### 🗂️ Folder Structure
-plaintext
-Copy
-Edit
-├── src │ ├── main │ │ ├── base # Base classes │ │ ├── pages # Page Object Models (POM) │ │ └── utils # Utility functions │ ├── test │ ├── tests # Test cases │ └── data # Test data ├── docker-compose.yml # Selenium Grid Docker setup ├── config.properties # Configuration file └──
+The project structure is as follows:
+
+src/ ├── main/ │ ├── base/ # Base classes │ ├── pages/ # Page Object Models (POM) │ └── utils/ # Utility functions ├── test/ │ ├── tests/ # Test cases │ └── data/ # Test data ├── docker-compose.yml # Selenium Grid Docker setup ├── config.properties # Configuration file └── README.md # Project documentation
 
 ### 💬 Contact
 For queries or issues, feel free to create an issue or reach out to:
