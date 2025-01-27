@@ -29,7 +29,7 @@ bash
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
 
-###2️⃣ Start Selenium Grid with Docker
+### 2️⃣ Start Selenium Grid with Docker
 bash
 Copy
 Edit
