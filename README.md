@@ -25,7 +25,7 @@ This repository contains a **Web Automation Framework** built with **Selenium**,
 ## 🚀 How to Use
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
 
